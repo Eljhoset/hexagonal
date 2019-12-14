@@ -1,0 +1,8 @@
+com\eljhoset\persistence\listener\DepartmentChange.class
+com\eljhoset\persistence\repository\EmployeeJpaRepository.class
+com\eljhoset\persistence\listener\NameChanged.class
+com\eljhoset\persistence\model\Department.class
+com\eljhoset\persistence\repository\EmployeeSpringBootRepository.class
+com\eljhoset\persistence\model\Employee.class
+com\eljhoset\persistence\repository\DepartmentSpringBootRepository.class
+com\eljhoset\persistence\CmdLineRunner.class

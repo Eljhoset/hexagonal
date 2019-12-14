@@ -1,0 +1,10 @@
+com\eljhoset\sharedkernel\EventDispatcher.class
+com\eljhoset\sharedkernel\DomainObject.class
+com\eljhoset\sharedkernel\ValueObject.class
+com\eljhoset\sharedkernel\Entity.class
+com\eljhoset\sharedkernel\Aggregate.class
+com\eljhoset\sharedkernel\DomainEvent.class
+com\eljhoset\sharedkernel\LocalEntity.class
+com\eljhoset\sharedkernel\Repository.class
+com\eljhoset\sharedkernel\IndentifiableObject.class
+com\eljhoset\sharedkernel\StandarType.class

@@ -1,0 +1,4 @@
+com\eljhoset\http\controller\DepartmentChangerController.class
+com\eljhoset\http\model\ChangeNameRequest.class
+com\eljhoset\http\controller\NameChangerController.class
+com\eljhoset\http\model\ChangeDepartmentRequest.class
